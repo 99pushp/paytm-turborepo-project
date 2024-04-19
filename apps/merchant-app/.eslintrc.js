@@ -6,4 +6,6 @@ module.exports = {
   parserOptions: {
     project: true,
   },
+  ignorePatterns: ["tailwind.config.js"],
 };
+
